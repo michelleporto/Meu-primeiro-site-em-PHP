@@ -6,8 +6,8 @@
 
 <h5> Links úteis </h5>
   
-  <h6>[Notepad++](https://notepad-plus-plus.org/downloads/)
+  <h6>[Notepad++]</h6>(https://notepad-plus-plus.org/downloads/)
   
-  [jQuery Core](https://releases.jquery.com/)
+  <h6>[jQuery Core]</h6>(https://releases.jquery.com/)
   
-  [W3schools](https://www.w3schools.co) </h6>
+  <h6>[W3schools]</h6>(https://www.w3schools.co) 
