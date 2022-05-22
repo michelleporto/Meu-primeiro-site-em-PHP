@@ -15,4 +15,4 @@
   
 [jQuery Core](https://releases.jquery.com/)
   
-[W3schools](https://www.w3schools.co) 
+[W3schools](https://www.w3schools.com) 
